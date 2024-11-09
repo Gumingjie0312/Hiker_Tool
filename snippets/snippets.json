@@ -1,0 +1,1279 @@
+{
+  "href": { "prefix": ["hre"], "body": ["href"], "description": "海阔视界" },
+  "title": { "prefix": ["tit"], "body": ["title"], "description": "海阔视界" },
+  "Text": { "prefix": ["Tex"], "body": ["Text"], "description": "海阔视界" },
+  "Html": { "prefix": ["Htm"], "body": ["Html"], "description": "海阔视界" },
+  "MY_URL": {
+    "prefix": ["MY_"],
+    "body": ["MY_URL"],
+    "description": "海阔视界"
+  },
+  "MY_PARAMS": {
+    "prefix": ["MY_"],
+    "body": ["MY_PARAMS"],
+    "description": "海阔视界"
+  },
+  "MY_RULE": {
+    "prefix": ["MY_"],
+    "body": ["MY_RULE"],
+    "description": "海阔视界"
+  },
+  "MY_ACCOUNT": {
+    "prefix": ["MY_"],
+    "body": ["MY_ACCOUNT"],
+    "description": "海阔视界"
+  },
+  "MY_PASSWORD": {
+    "prefix": ["MY_"],
+    "body": ["MY_PASSWORD"],
+    "description": "海阔视界"
+  },
+  "withHeaders": {
+    "prefix": ["wit"],
+    "body": ["withHeaders"],
+    "description": "海阔视界"
+  },
+  "method": {
+    "prefix": ["met"],
+    "body": ["method"],
+    "description": "海阔视界"
+  },
+  "headers": {
+    "prefix": ["hea"],
+    "body": ["headers"],
+    "description": "海阔视界"
+  },
+  "charset": {
+    "prefix": ["cha"],
+    "body": ["charset"],
+    "description": "海阔视界"
+  },
+  "application/json": {
+    "prefix": ["app"],
+    "body": ["application/json"],
+    "description": "海阔视界"
+  },
+  "application/x-www-form-urlencoded": {
+    "prefix": ["app"],
+    "body": ["application/x-www-form-urlencoded"],
+    "description": "海阔视界"
+  },
+  "rule": { "prefix": ["rul"], "body": ["rule"], "description": "海阔视界" },
+  "lazyRule": {
+    "prefix": ["laz"],
+    "body": ["lazyRule"],
+    "description": "海阔视界"
+  },
+  "col_type": {
+    "prefix": ["col"],
+    "body": ["col_type"],
+    "description": "海阔视界"
+  },
+  "immersiveTheme#": {
+    "prefix": ["imm"],
+    "body": ["immersiveTheme#"],
+    "description": "海阔视界"
+  },
+  "ignoreVideo=true#": {
+    "prefix": ["ign"],
+    "body": ["ignoreVideo=true#"],
+    "description": "海阔视界"
+  },
+  "isVideo=true#": {
+    "prefix": ["isV"],
+    "body": ["isVideo=true#"],
+    "description": "海阔视界"
+  },
+  "ignoreImg=true#": {
+    "prefix": ["ign"],
+    "body": ["ignoreImg=true#"],
+    "description": "海阔视界"
+  },
+  "noRecordHistory": {
+    "prefix": ["noR"],
+    "body": ["noRecordHistory"],
+    "description": "海阔视界"
+  },
+  "noHistory": {
+    "prefix": ["noH"],
+    "body": ["noHistory"],
+    "description": "海阔视界"
+  },
+  "redirect": {
+    "prefix": ["red"],
+    "body": ["redirect"],
+    "description": "海阔视界"
+  },
+  "Referer": {
+    "prefix": ["Ref"],
+    "body": ["Referer"],
+    "description": "海阔视界"
+  },
+  "Content-Type": {
+    "prefix": ["Con"],
+    "body": ["Content-Type"],
+    "description": "海阔视界"
+  },
+  "hiker://": {
+    "prefix": ["hik"],
+    "body": ["hiker://"],
+    "description": "海阔视界"
+  },
+  "hiker://empty": {
+    "prefix": ["hik"],
+    "body": ["hiker://empty"],
+    "description": "海阔视界"
+  },
+  "hiker://page/": {
+    "prefix": ["hik"],
+    "body": ["hiker://page/"],
+    "description": "海阔视界"
+  },
+  "hiker://files/": {
+    "prefix": ["hik"],
+    "body": ["hiker://files/"],
+    "description": "海阔视界"
+  },
+  "bookmark": {
+    "prefix": ["boo"],
+    "body": ["bookmark"],
+    "description": "海阔视界"
+  },
+  "web://": {
+    "prefix": ["web"],
+    "body": ["web://"],
+    "description": "海阔视界"
+  },
+  "download": {
+    "prefix": ["dow"],
+    "body": ["download"],
+    "description": "海阔视界"
+  },
+  "history": {
+    "prefix": ["his"],
+    "body": ["history"],
+    "description": "海阔视界"
+  },
+  "collection": {
+    "prefix": ["col"],
+    "body": ["collection"],
+    "description": "海阔视界"
+  },
+  "setting": {
+    "prefix": ["set"],
+    "body": ["setting"],
+    "description": "海阔视界"
+  },
+  "javascript": {
+    "prefix": ["jav"],
+    "body": ["javascript"],
+    "description": "海阔视界"
+  },
+  "toast://": {
+    "prefix": ["toa"],
+    "body": ["toast://"],
+    "description": "海阔视界"
+  },
+  "confirm://": {
+    "prefix": ["con"],
+    "body": ["confirm://"],
+    "description": "海阔视界"
+  },
+  "editFile://": {
+    "prefix": ["edi"],
+    "body": ["editFile://"],
+    "description": "海阔视界"
+  },
+  "x5Play://": {
+    "prefix": ["x5P"],
+    "body": ["x5Play://"],
+    "description": "海阔视界"
+  },
+  "x5WebView://": {
+    "prefix": ["x5W"],
+    "body": ["x5WebView://"],
+    "description": "海阔视界"
+  },
+  "titleVisible": {
+    "prefix": ["tit"],
+    "body": ["titleVisible"],
+    "description": "海阔视界"
+  },
+  "extra": { "prefix": ["ext"], "body": ["extra"], "description": "海阔视界" },
+  "defaultValue": {
+    "prefix": ["def"],
+    "body": ["defaultValue"],
+    "description": "海阔视界"
+  },
+  "onChange": {
+    "prefix": ["onC"],
+    "body": ["onChange"],
+    "description": "海阔视界"
+  },
+  "onClose": {
+    "prefix": ["onC"],
+    "body": ["onClose"],
+    "description": "海阔视界"
+  },
+  "onRefresh": {
+    "prefix": ["onR"],
+    "body": ["onRefresh"],
+    "description": "海阔视界"
+  },
+  "exports": {
+    "prefix": ["exp"],
+    "body": ["exports"],
+    "description": "海阔视界"
+  },
+  "require": {
+    "prefix": ["req"],
+    "body": ["require"],
+    "description": "海阔视界"
+  },
+  "clipboard": {
+    "prefix": ["cli"],
+    "body": ["clipboard"],
+    "description": "海阔视界"
+  },
+  "toString": {
+    "prefix": ["toS"],
+    "body": ["toString"],
+    "description": "海阔视界"
+  },
+  "toString(()=>{\\n    \\n})": {
+    "prefix": ["toS"],
+    "body": ["toString(()=>{\\n    \\n})"],
+    "description": "海阔视界"
+  },
+  "content": {
+    "prefix": ["con"],
+    "body": ["content"],
+    "description": "海阔视界"
+  },
+  "cancel": {
+    "prefix": ["can"],
+    "body": ["cancel"],
+    "description": "海阔视界"
+  },
+  "canBack": {
+    "prefix": ["can"],
+    "body": ["canBack"],
+    "description": "海阔视界"
+  },
+  "ignoreMusic=true#": {
+    "prefix": ["ign"],
+    "body": ["ignoreMusic=true#"],
+    "description": "海阔视界"
+  },
+  "isMusic=true#": {
+    "prefix": ["isM"],
+    "body": ["isMusic=true#"],
+    "description": "海阔视界"
+  },
+  "MOBILE_UA": {
+    "prefix": ["MOB"],
+    "body": ["MOBILE_UA"],
+    "description": "海阔视界"
+  },
+  "PC_UA": { "prefix": ["PC_"], "body": ["PC_UA"], "description": "海阔视界" },
+  "select://": {
+    "prefix": ["sel"],
+    "body": ["select://"],
+    "description": "海阔视界"
+  },
+  "autoPage#": {
+    "prefix": ["aut"],
+    "body": ["autoPage#"],
+    "description": "海阔视界"
+  },
+  "textSize": {
+    "prefix": ["tex"],
+    "body": ["textSize"],
+    "description": "海阔视界"
+  },
+  "x5Rule://": {
+    "prefix": ["x5R"],
+    "body": ["x5Rule://"],
+    "description": "海阔视界"
+  },
+  "options": {
+    "prefix": ["opt"],
+    "body": ["options"],
+    "description": "海阔视界"
+  },
+  "click": { "prefix": ["cli"], "body": ["click"], "description": "海阔视界" },
+  "refresh": {
+    "prefix": ["ref"],
+    "body": ["refresh"],
+    "description": "海阔视界"
+  },
+  "listen": {
+    "prefix": ["lis"],
+    "body": ["listen"],
+    "description": "海阔视界"
+  },
+  "error": { "prefix": ["err"], "body": ["error"], "description": "海阔视界" },
+  "fori": { "prefix": ["for"], "body": ["fori"], "description": "海阔视界" },
+  "forof": { "prefix": ["for"], "body": ["forof"], "description": "海阔视界" },
+  "forin": { "prefix": ["for"], "body": ["forin"], "description": "海阔视界" },
+  "pics://": {
+    "prefix": ["pic"],
+    "body": ["pics://"],
+    "description": "海阔视界"
+  },
+  "pushit": {
+    "prefix": ["pus"],
+    "body": ["pushit"],
+    "description": "海阔视界"
+  },
+  "pushLine": {
+    "prefix": ["pus"],
+    "body": ["pushLine"],
+    "description": "海阔视界"
+  },
+  "pushBigBlock": {
+    "prefix": ["pus"],
+    "body": ["pushBigBlock"],
+    "description": "海阔视界"
+  },
+  "pushRich": {
+    "prefix": ["pus"],
+    "body": ["pushRich"],
+    "description": "海阔视界"
+  },
+  "fy_bridge_app": {
+    "prefix": ["fy_"],
+    "body": ["fy_bridge_app"],
+    "description": "海阔视界"
+  },
+  "js:init": {
+    "prefix": ["js:"],
+    "body": ["js:init"],
+    "description": "海阔视界"
+  },
+  "varPd": { "prefix": ["var"], "body": ["varPd"], "description": "海阔视界" },
+  "varPdfh": {
+    "prefix": ["var"],
+    "body": ["varPdfh"],
+    "description": "海阔视界"
+  },
+  "varPdfa": {
+    "prefix": ["var"],
+    "body": ["varPdfa"],
+    "description": "海阔视界"
+  },
+  "toHex: true": {
+    "prefix": ["toH"],
+    "body": ["toHex: true"],
+    "description": "海阔视界"
+  },
+  "pre#": { "prefix": ["pre"], "body": ["pre#"], "description": "海阔视界" },
+  "noPre#": {
+    "prefix": ["noP"],
+    "body": ["noPre#"],
+    "description": "海阔视界"
+  },
+  "lineVisible": {
+    "prefix": ["lin"],
+    "body": ["lineVisible"],
+    "description": "海阔视界"
+  },
+  "ignoreM3U8#": {
+    "prefix": ["ign"],
+    "body": ["ignoreM3U8#"],
+    "description": "海阔视界"
+  },
+  "blockRules": {
+    "prefix": ["blo"],
+    "body": ["blockRules"],
+    "description": "海阔视界"
+  },
+  "newWindow: true": {
+    "prefix": ["new"],
+    "body": ["newWindow: true"],
+    "description": "海阔视界"
+  },
+  "func://background": {
+    "prefix": ["fun"],
+    "body": ["func://background"],
+    "description": "海阔视界"
+  },
+  "func://": {
+    "prefix": ["fun"],
+    "body": ["func://"],
+    "description": "海阔视界"
+  },
+  "background": {
+    "prefix": ["bac"],
+    "body": ["background"],
+    "description": "海阔视界"
+  },
+  "windowId": {
+    "prefix": ["win"],
+    "body": ["windowId"],
+    "description": "海阔视界"
+  },
+  "gradient: true": {
+    "prefix": ["gra"],
+    "body": ["gradient: true"],
+    "description": "海阔视界"
+  },
+  "md5": { "prefix": ["md5"], "body": ["md5"], "description": "海阔视界" },
+  "subtitle": {
+    "prefix": ["sub"],
+    "body": ["subtitle"],
+    "description": "海阔视界"
+  },
+  "varjson": {
+    "prefix": ["var"],
+    "body": ["varjson"],
+    "description": "海阔视界"
+  },
+  "danmu": { "prefix": ["dan"], "body": ["danmu"], "description": "海阔视界" },
+  "webRule://": {
+    "prefix": ["web"],
+    "body": ["webRule://"],
+    "description": "海阔视界"
+  },
+  "json:parse": {
+    "prefix": ["jso"],
+    "body": ["json:parse"],
+    "description": "海阔视界"
+  },
+  "json:parse2": {
+    "prefix": ["jso"],
+    "body": ["json:parse2"],
+    "description": "海阔视界"
+  },
+  "json:stringify": {
+    "prefix": ["jso"],
+    "body": ["json:stringify"],
+    "description": "海阔视界"
+  },
+  "initConfig": {
+    "prefix": ["ini"],
+    "body": ["initConfig"],
+    "description": "海阔视界"
+  },
+  "config": {
+    "prefix": ["con"],
+    "body": ["config"],
+    "description": "海阔视界"
+  },
+  "fullTheme#": {
+    "prefix": ["ful"],
+    "body": ["fullTheme#"],
+    "description": "海阔视界"
+  },
+  "readTheme#": {
+    "prefix": ["rea"],
+    "body": ["readTheme#"],
+    "description": "海阔视界"
+  },
+  "gameTheme#": {
+    "prefix": ["gam"],
+    "body": ["gameTheme#"],
+    "description": "海阔视界"
+  },
+  "noLoading#": {
+    "prefix": ["noL"],
+    "body": ["noLoading#"],
+    "description": "海阔视界"
+  },
+  "onlyHeaders: true": {
+    "prefix": ["onl"],
+    "body": ["onlyHeaders: true"],
+    "description": "海阔视界"
+  },
+  "MY_PAGE": {
+    "prefix": ["MY_"],
+    "body": ["MY_PAGE"],
+    "description": "海阔视界"
+  },
+  "memoryPosition=full": {
+    "prefix": ["mem"],
+    "body": ["memoryPosition=full"],
+    "description": "海阔视界"
+  },
+  "console": {
+    "prefix": ["con"],
+    "body": ["console"],
+    "description": "海阔视界"
+  },
+  "func": { "prefix": ["fun"], "body": ["func"], "description": "海阔视界" },
+  "param": { "prefix": ["par"], "body": ["param"], "description": "海阔视界" },
+  "noRefresh#": {
+    "prefix": ["noR"],
+    "body": ["noRefresh#"],
+    "description": "海阔视界"
+  },
+  "isM3u8#": {
+    "prefix": ["isM"],
+    "body": ["isM3u8#"],
+    "description": "海阔视界"
+  },
+  "audioUrls": {
+    "prefix": ["aud"],
+    "body": ["audioUrls"],
+    "description": "海阔视界"
+  },
+  "MY_HOME": {
+    "prefix": ["MY_"],
+    "body": ["MY_HOME"],
+    "description": "海阔视界"
+  },
+  "share://": {
+    "prefix": ["sha"],
+    "body": ["share://"],
+    "description": "海阔视界"
+  },
+  "rc4": { "prefix": ["rc4"], "body": ["rc4"], "description": "海阔视界" },
+  "decode": {
+    "prefix": ["dec"],
+    "body": ["decode"],
+    "description": "海阔视界"
+  },
+  "encode": {
+    "prefix": ["enc"],
+    "body": ["encode"],
+    "description": "海阔视界"
+  },
+  "openFile://": {
+    "prefix": ["ope"],
+    "body": ["openFile://"],
+    "description": "海阔视界"
+  },
+  "referer": {
+    "prefix": ["ref"],
+    "body": ["referer"],
+    "description": "海阔视界"
+  },
+  "webview://": {
+    "prefix": ["web"],
+    "body": ["webview://"],
+    "description": "海阔视界"
+  },
+  "success": {
+    "prefix": ["suc"],
+    "body": ["success"],
+    "description": "海阔视界"
+  },
+  "start": { "prefix": ["sta"], "body": ["start"], "description": "海阔视界" },
+  "data": { "prefix": ["dat"], "body": ["data"], "description": "海阔视界" },
+  "textAlign": {
+    "prefix": ["tex"],
+    "body": ["textAlign"],
+    "description": "海阔视界"
+  },
+  "left": { "prefix": ["lef"], "body": ["left"], "description": "海阔视界" },
+  "jsLoadingInject": {
+    "prefix": ["jsL"],
+    "body": ["jsLoadingInject"],
+    "description": "海阔视界"
+  },
+  "window0": {
+    "prefix": ["win"],
+    "body": ["window0"],
+    "description": "海阔视界"
+  },
+  "base64": {
+    "prefix": ["bas"],
+    "body": ["base64"],
+    "description": "海阔视界"
+  },
+  "fileToBytes": {
+    "prefix": ["fil"],
+    "body": ["fileToBytes"],
+    "description": "海阔视界"
+  },
+  "NO_WRAP": {
+    "prefix": ["NO_"],
+    "body": ["NO_WRAP"],
+    "description": "海阔视界"
+  },
+  "encodeToString": {
+    "prefix": ["enc"],
+    "body": ["encodeToString"],
+    "description": "海阔视界"
+  },
+  "JavaImporter": {
+    "prefix": ["Jav"],
+    "body": ["JavaImporter"],
+    "description": "海阔视界"
+  },
+  "Packages": {
+    "prefix": ["Pac"],
+    "body": ["Packages"],
+    "description": "海阔视界"
+  },
+  "importPackage": {
+    "prefix": ["imp"],
+    "body": ["importPackage"],
+    "description": "海阔视界"
+  },
+  "with": { "prefix": ["wit"], "body": ["with"], "description": "海阔视界" },
+  "convertBase64Image": {
+    "prefix": ["con"],
+    "body": ["convertBase64Image"],
+    "description": "海阔视界"
+  },
+  "deleteItemByCls": {
+    "prefix": ["del"],
+    "body": ["deleteItemByCls"],
+    "description": "海阔视界"
+  },
+  "timeout": {
+    "prefix": ["tim"],
+    "body": ["timeout"],
+    "description": "海阔视界"
+  },
+  "pic_url": {
+    "prefix": ["pic"],
+    "body": ["pic_url"],
+    "description": "海阔视界"
+  },
+  "desc": { "prefix": ["des"], "body": ["desc"], "description": "海阔视界" },
+  "findItem": {
+    "prefix": ["fin"],
+    "body": ["findItem"],
+    "description": "海阔视界"
+  },
+  "playVideo": {
+    "prefix": ["pla"],
+    "body": ["playVideo"],
+    "description": "海阔视界"
+  },
+  "setAppBarColor": {
+    "prefix": ["set"],
+    "body": ["setAppBarColor"],
+    "description": "海阔视界"
+  },
+  "setWebTitle": {
+    "prefix": ["set"],
+    "body": ["setWebTitle"],
+    "description": "海阔视界"
+  },
+  "CryptoJS": {
+    "prefix": ["Cry"],
+    "body": ["CryptoJS"],
+    "description": "海阔视界"
+  },
+  "getCryptoJS": {
+    "prefix": ["get"],
+    "body": ["getCryptoJS"],
+    "description": "海阔视界"
+  },
+  "getCookie": {
+    "prefix": ["get"],
+    "body": ["getCookie"],
+    "description": "海阔视界"
+  },
+  "requestAsync": {
+    "prefix": ["req"],
+    "body": ["requestAsync"],
+    "description": "海阔视界"
+  },
+  "parseLazyRule": {
+    "prefix": ["par"],
+    "body": ["parseLazyRule"],
+    "description": "海阔视界"
+  },
+  "parseLazyRuleAsync": {
+    "prefix": ["par"],
+    "body": ["parseLazyRuleAsync"],
+    "description": "海阔视界"
+  },
+  "urlInterceptor": {
+    "prefix": ["url"],
+    "body": ["urlInterceptor"],
+    "description": "海阔视界"
+  },
+  "decodeToString": {
+    "prefix": ["dec"],
+    "body": ["decodeToString"],
+    "description": "海阔视界"
+  },
+  "atob": { "prefix": ["ato"], "body": ["atob"], "description": "海阔视界" },
+  "btoa": { "prefix": ["bto"], "body": ["btoa"], "description": "海阔视界" },
+  "window0.atob": {
+    "prefix": ["win"],
+    "body": ["window0.atob"],
+    "description": "海阔视界"
+  },
+  "window0.btoa": {
+    "prefix": ["win"],
+    "body": ["window0.btoa"],
+    "description": "海阔视界"
+  },
+  "storage0": {
+    "prefix": ["sto"],
+    "body": ["storage0"],
+    "description": "海阔视界"
+  },
+  "findItemsByCls": {
+    "prefix": ["fin"],
+    "body": ["findItemsByCls"],
+    "description": "海阔视界"
+  },
+  "storage0.putMyVar": {
+    "prefix": ["sto"],
+    "body": ["storage0.putMyVar"],
+    "description": "海阔视界"
+  },
+  "storage0.getMyVar": {
+    "prefix": ["sto"],
+    "body": ["storage0.getMyVar"],
+    "description": "海阔视界"
+  },
+  "storage0.putVar": {
+    "prefix": ["sto"],
+    "body": ["storage0.putVar"],
+    "description": "海阔视界"
+  },
+  "storage0.getVar": {
+    "prefix": ["sto"],
+    "body": ["storage0.getVar"],
+    "description": "海阔视界"
+  },
+  "storage0.setItem": {
+    "prefix": ["sto"],
+    "body": ["storage0.setItem"],
+    "description": "海阔视界"
+  },
+  "storage0.getItem": {
+    "prefix": ["sto"],
+    "body": ["storage0.getItem"],
+    "description": "海阔视界"
+  },
+  "floatVideo: true": {
+    "prefix": ["flo"],
+    "body": ["floatVideo: true"],
+    "description": "海阔视界"
+  },
+  "getHeaderUrl": {
+    "prefix": ["get"],
+    "body": ["getHeaderUrl"],
+    "description": "海阔视界"
+  },
+  "getRequestHeaders": {
+    "prefix": ["get"],
+    "body": ["getRequestHeaders"],
+    "description": "海阔视界"
+  },
+  "getUa": { "prefix": ["get"], "body": ["getUa"], "description": "海阔视界" },
+  "textarea": {
+    "prefix": ["tex"],
+    "body": ["textarea"],
+    "description": "海阔视界"
+  },
+  "password": {
+    "prefix": ["pas"],
+    "body": ["password"],
+    "description": "海阔视界"
+  },
+  "type": { "prefix": ["typ"], "body": ["type"], "description": "海阔视界" },
+  "highlight": {
+    "prefix": ["hig"],
+    "body": ["highlight"],
+    "description": "海阔视界"
+  },
+  "dateFormat": {
+    "prefix": ["dat"],
+    "body": ["dateFormat"],
+    "description": "海阔视界"
+  },
+  "extend": {
+    "prefix": ["ext"],
+    "body": ["extend"],
+    "description": "海阔视界"
+  },
+  "list": { "prefix": ["lis"], "body": ["list"], "description": "海阔视界" },
+  "upload": {
+    "prefix": ["upl"],
+    "body": ["upload"],
+    "description": "海阔视界"
+  },
+  "child": { "prefix": ["chi"], "body": ["child"], "description": "海阔视界" },
+  "playUrl": {
+    "prefix": ["pla"],
+    "body": ["playUrl"],
+    "description": "海阔视界"
+  },
+  "modifyTime": {
+    "prefix": ["mod"],
+    "body": ["modifyTime"],
+    "description": "海阔视界"
+  },
+  "makeDir": {
+    "prefix": ["mak"],
+    "body": ["makeDir"],
+    "description": "海阔视界"
+  },
+  "modifyTimeStr": {
+    "prefix": ["mod"],
+    "body": ["modifyTimeStr"],
+    "description": "海阔视界"
+  },
+  "fileSelect://": {
+    "prefix": ["fil"],
+    "body": ["fileSelect://"],
+    "description": "海阔视界"
+  },
+  "_fileSelect_": {
+    "prefix": ["_fi"],
+    "body": ["_fileSelect_"],
+    "description": "海阔视界"
+  },
+  "showProgress: false": {
+    "prefix": ["sho"],
+    "body": ["showProgress: false"],
+    "description": "海阔视界"
+  },
+  "autoPlay: true": {
+    "prefix": ["aut"],
+    "body": ["autoPlay: true"],
+    "description": "海阔视界"
+  },
+  "background#": {
+    "prefix": ["bac"],
+    "body": ["background#"],
+    "description": "海阔视界"
+  },
+  "float": { "prefix": ["flo"], "body": ["float"], "description": "海阔视界" },
+  "float&&100%": {
+    "prefix": ["flo"],
+    "body": ["float&&100%"],
+    "description": "海阔视界"
+  },
+  "float&&top": {
+    "prefix": ["flo"],
+    "body": ["float&&top"],
+    "description": "海阔视界"
+  },
+  "float&&screen": {
+    "prefix": ["flo"],
+    "body": ["float&&screen"],
+    "description": "海阔视界"
+  },
+  "screen": {
+    "prefix": ["scr"],
+    "body": ["screen"],
+    "description": "海阔视界"
+  },
+  "float&&video": {
+    "prefix": ["flo"],
+    "body": ["float&&video"],
+    "description": "海阔视界"
+  },
+  "list&&screen": {
+    "prefix": ["lis"],
+    "body": ["list&&screen"],
+    "description": "海阔视界"
+  },
+  "list&&video": {
+    "prefix": ["lis"],
+    "body": ["list&&video"],
+    "description": "海阔视界"
+  },
+  "video://": {
+    "prefix": ["vid"],
+    "body": ["video://"],
+    "description": "海阔视界"
+  },
+  "videoRules": {
+    "prefix": ["vid"],
+    "body": ["videoRules"],
+    "description": "海阔视界"
+  },
+  "videoExcludeRules": {
+    "prefix": ["vid"],
+    "body": ["videoExcludeRules"],
+    "description": "海阔视界"
+  },
+  "autoCache#": {
+    "prefix": ["aut"],
+    "body": ["autoCache#"],
+    "description": "海阔视界"
+  },
+  "cacheOnly#": {
+    "prefix": ["cac"],
+    "body": ["cacheOnly#"],
+    "description": "海阔视界"
+  },
+  "cacheCode": {
+    "prefix": ["cac"],
+    "body": ["cacheCode"],
+    "description": "海阔视界"
+  },
+  "lyric": { "prefix": ["lyr"], "body": ["lyric"], "description": "海阔视界" },
+  "FileUtil": {
+    "prefix": ["Fil"],
+    "body": ["FileUtil"],
+    "description": "海阔视界"
+  },
+  "toBytes": {
+    "prefix": ["toB"],
+    "body": ["toBytes"],
+    "description": "海阔视界"
+  },
+  "toInputStream": {
+    "prefix": ["toI"],
+    "body": ["toInputStream"],
+    "description": "海阔视界"
+  },
+  "pageTitle": {
+    "prefix": ["pag"],
+    "body": ["pageTitle"],
+    "description": "海阔视界"
+  },
+  "GM_addStyle": {
+    "prefix": ["GM_"],
+    "body": ["GM_addStyle"],
+    "description": "海阔视界"
+  },
+  "GM_getValue": {
+    "prefix": ["GM_"],
+    "body": ["GM_getValue"],
+    "description": "海阔视界"
+  },
+  "GM_setValue": {
+    "prefix": ["GM_"],
+    "body": ["GM_setValue"],
+    "description": "海阔视界"
+  },
+  "GM_deleteValue": {
+    "prefix": ["GM_"],
+    "body": ["GM_deleteValue"],
+    "description": "海阔视界"
+  },
+  "GM_listValues": {
+    "prefix": ["GM_"],
+    "body": ["GM_listValues"],
+    "description": "海阔视界"
+  },
+  "GM_xmlhttpRequest": {
+    "prefix": ["GM_"],
+    "body": ["GM_xmlhttpRequest"],
+    "description": "海阔视界"
+  },
+  "GM_setClipboard": {
+    "prefix": ["GM_"],
+    "body": ["GM_setClipboard"],
+    "description": "海阔视界"
+  },
+  "GM_registerMenuCommand": {
+    "prefix": ["GM_"],
+    "body": ["GM_registerMenuCommand"],
+    "description": "海阔视界"
+  },
+  "GM_unregisterMenuCommand": {
+    "prefix": ["GM_"],
+    "body": ["GM_unregisterMenuCommand"],
+    "description": "海阔视界"
+  },
+  "GM_log": {
+    "prefix": ["GM_"],
+    "body": ["GM_log"],
+    "description": "海阔视界"
+  },
+  "GM_notification": {
+    "prefix": ["GM_"],
+    "body": ["GM_notification"],
+    "description": "海阔视界"
+  },
+  "GM_getResourceText": {
+    "prefix": ["GM_"],
+    "body": ["GM_getResourceText"],
+    "description": "海阔视界"
+  },
+  "GM_getResourceURL": {
+    "prefix": ["GM_"],
+    "body": ["GM_getResourceURL"],
+    "description": "海阔视界"
+  },
+  "getPageTitle": {
+    "prefix": ["get"],
+    "body": ["getPageTitle"],
+    "description": "海阔视界"
+  },
+  "inheritTitle: false": {
+    "prefix": ["inh"],
+    "body": ["inheritTitle: false"],
+    "description": "海阔视界"
+  },
+  "openThirdApp": {
+    "prefix": ["ope"],
+    "body": ["openThirdApp"],
+    "description": "海阔视界"
+  },
+  "longClick": {
+    "prefix": ["lon"],
+    "body": ["longClick"],
+    "description": "海阔视界"
+  },
+  "inputStream": {
+    "prefix": ["inp"],
+    "body": ["inputStream"],
+    "description": "海阔视界"
+  },
+  "getEpubContent": {
+    "prefix": ["get"],
+    "body": ["getEpubContent"],
+    "description": "海阔视界"
+  },
+  "imgLongClick: false": {
+    "prefix": ["img"],
+    "body": ["imgLongClick: false"],
+    "description": "海阔视界"
+  },
+  "dns": { "prefix": ["dns"], "body": ["dns"], "description": "海阔视界" },
+  "findReachableIP": {
+    "prefix": ["fin"],
+    "body": ["findReachableIP"],
+    "description": "海阔视界"
+  },
+  "playlist": {
+    "prefix": ["pla"],
+    "body": ["playlist"],
+    "description": "海阔视界"
+  },
+  "originalSize#": {
+    "prefix": ["ori"],
+    "body": ["originalSize#"],
+    "description": "海阔视界"
+  },
+  "statusCode": {
+    "prefix": ["sta"],
+    "body": ["statusCode"],
+    "description": "海阔视界"
+  },
+  "Location": {
+    "prefix": ["Loc"],
+    "body": ["Location"],
+    "description": "海阔视界"
+  },
+  "checkTime": {
+    "prefix": ["che"],
+    "body": ["checkTime"],
+    "description": "海阔视界"
+  },
+  "clearM3u8Ad": {
+    "prefix": ["cle"],
+    "body": ["clearM3u8Ad"],
+    "description": "海阔视界"
+  },
+  "clearM3u8AdLazy": {
+    "prefix": ["cle"],
+    "body": ["clearM3u8AdLazy"],
+    "description": "海阔视界"
+  },
+  "checkJs": {
+    "prefix": ["che"],
+    "body": ["checkJs"],
+    "description": "海阔视界"
+  },
+  "innerText": {
+    "prefix": ["inn"],
+    "body": ["innerText"],
+    "description": "海阔视界"
+  },
+  "innerHTML": {
+    "prefix": ["inn"],
+    "body": ["innerHTML"],
+    "description": "海阔视界"
+  },
+  "name": { "prefix": ["nam"], "body": ["name"], "description": "海阔视界" },
+  "force": { "prefix": ["for"], "body": ["force"], "description": "海阔视界" },
+  "requestHeaders": {
+    "prefix": ["req"],
+    "body": ["requestHeaders"],
+    "description": "海阔视界"
+  },
+  "responseHeaders": {
+    "prefix": ["res"],
+    "body": ["responseHeaders"],
+    "description": "海阔视界"
+  },
+  "cacheM3u8WithPngProxy": {
+    "prefix": ["cac"],
+    "body": ["cacheM3u8WithPngProxy"],
+    "description": "海阔视界"
+  },
+  "convertM3u8WithPngProxy": {
+    "prefix": ["con"],
+    "body": ["convertM3u8WithPngProxy"],
+    "description": "海阔视界"
+  },
+  "headers=json@code@headers=\\ + JSON.stringify({})": {
+    "prefix": ["hea"],
+    "body": ["headers=json@code@headers=\\ + JSON.stringify({})"],
+    "description": "海阔视界"
+  },
+  "playdata": {
+    "prefix": ["pla"],
+    "body": ["playdata"],
+    "description": "海阔视界"
+  },
+  "url": { "prefix": ["url"], "body": ["url"], "description": "海阔视界" },
+  "memoryPage#": {
+    "prefix": ["mem"],
+    "body": ["memoryPage#"],
+    "description": "海阔视界"
+  },
+  "isPageReversed": {
+    "prefix": ["isP"],
+    "body": ["isPageReversed"],
+    "description": "海阔视界"
+  },
+  "concat#": {
+    "prefix": ["con"],
+    "body": ["concat#"],
+    "description": "海阔视界"
+  },
+  "MY_KEYWORD": {
+    "prefix": ["MY_"],
+    "body": ["MY_KEYWORD"],
+    "description": "海阔视界"
+  },
+  "MY_CLASS_NAME": {
+    "prefix": ["MY_"],
+    "body": ["MY_CLASS_NAME"],
+    "description": "海阔视界"
+  },
+  "MY_CLASS_URL": {
+    "prefix": ["MY_"],
+    "body": ["MY_CLASS_URL"],
+    "description": "海阔视界"
+  },
+  "MY_YEAR_NAME": {
+    "prefix": ["MY_"],
+    "body": ["MY_YEAR_NAME"],
+    "description": "海阔视界"
+  },
+  "MY_YEAR_URL": {
+    "prefix": ["MY_"],
+    "body": ["MY_YEAR_URL"],
+    "description": "海阔视界"
+  },
+  "MY_AREA_NAME": {
+    "prefix": ["MY_"],
+    "body": ["MY_AREA_NAME"],
+    "description": "海阔视界"
+  },
+  "MY_AREA_URL": {
+    "prefix": ["MY_"],
+    "body": ["MY_AREA_URL"],
+    "description": "海阔视界"
+  },
+  "MY_SORT_NAME": {
+    "prefix": ["MY_"],
+    "body": ["MY_SORT_NAME"],
+    "description": "海阔视界"
+  },
+  "MY_SORT_URL": {
+    "prefix": ["MY_"],
+    "body": ["MY_SORT_URL"],
+    "description": "海阔视界"
+  },
+  "topdom": {
+    "prefix": ["top"],
+    "body": ["topdom"],
+    "description": "海阔视界"
+  },
+  "fastPlayMode#": {
+    "prefix": ["fas"],
+    "body": ["fastPlayMode#"],
+    "description": "海阔视界"
+  },
+  "#threads=": {
+    "prefix": ["#th"],
+    "body": ["#threads="],
+    "description": "海阔视界"
+  },
+  "MY_INDEX": {
+    "prefix": ["MY_"],
+    "body": ["MY_INDEX"],
+    "description": "海阔视界"
+  },
+  "selectedIndex": {
+    "prefix": ["sel"],
+    "body": ["selectedIndex"],
+    "description": "海阔视界"
+  },
+  "globalMap0": {
+    "prefix": ["glo"],
+    "body": ["globalMap0"],
+    "description": "海阔视界"
+  },
+  "hasVar": {
+    "prefix": ["has"],
+    "body": ["hasVar"],
+    "description": "海阔视界"
+  },
+  "hasMyVar": {
+    "prefix": ["has"],
+    "body": ["hasMyVar"],
+    "description": "海阔视界"
+  },
+  "delegateOnlySearch: true": {
+    "prefix": ["del"],
+    "body": ["delegateOnlySearch: true"],
+    "description": "海阔视界"
+  },
+  "MY_PATH": {
+    "prefix": ["MY_"],
+    "body": ["MY_PATH"],
+    "description": "海阔视界"
+  },
+  "backgroundColor": {
+    "prefix": ["bac"],
+    "body": ["backgroundColor"],
+    "description": "海阔视界"
+  },
+  "rejectCoding: true": {
+    "prefix": ["rej"],
+    "body": ["rejectCoding: true"],
+    "description": "海阔视界"
+  },
+  "attachView: true": {
+    "prefix": ["att"],
+    "body": ["attachView: true"],
+    "description": "海阔视界"
+  },
+  "hkshell": {
+    "prefix": ["hks"],
+    "body": ["hkshell"],
+    "description": "海阔视界"
+  },
+  "COPY": { "prefix": ["COP"], "body": ["COPY"], "description": "海阔视界" },
+  "checkMetadata=false#": {
+    "prefix": ["che"],
+    "body": ["checkMetadata=false#"],
+    "description": "海阔视界"
+  },
+  "webSearch": {
+    "prefix": ["web"],
+    "body": ["webSearch"],
+    "description": "海阔视界"
+  },
+  "getReadContentData": {
+    "prefix": ["get"],
+    "body": ["getReadContentData"],
+    "description": "海阔视界"
+  },
+  "loadReadContentPage": {
+    "prefix": ["loa"],
+    "body": ["loadReadContentPage"],
+    "description": "海阔视界"
+  },
+  "autoReader#": {
+    "prefix": ["aut"],
+    "body": ["autoReader#"],
+    "description": "海阔视界"
+  },
+  "isFromHistoryPage": {
+    "prefix": ["isF"],
+    "body": ["isFromHistoryPage"],
+    "description": "海阔视界"
+  }
+}

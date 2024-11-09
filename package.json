@@ -1,0 +1,80 @@
+{
+  "name": "hikertool",
+  "author": {"name": "Joe"},
+  "displayName": "HikerTool",
+  "description": "A toolkit for HikerView",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.95.0"
+  },
+  "categories": [
+    "Other"
+  ],
+  "activationEvents": [],
+  "main": "./extension.js",
+  "contributes": {
+    "snippets": [
+      {
+        "language": "javascript",
+        "path": "./snippets/snippets.json"
+      }
+    ],
+    "commands": [
+      {
+        "command": "hikertool.connectPhone",
+        "title": "连接手机",
+        "category": "HikerView"
+      }
+    ],
+    "viewsContainers": {
+      "activitybar": [
+        {
+          "id": "hikertool",
+          "title": "海阔视界",
+          "icon": "assets/icon.svg"
+        }
+      ]
+    },
+    "views": {
+      "hikertool": [
+        {
+          "id": "rules",
+          "name": "规则"
+        }
+      ]
+    },
+    "configuration": [
+      {
+        "title": "HikerTool",
+        "properties": {
+          "hikertool.phoneHost": {
+            "type": "string",
+            "default": "192.168.2.101",
+            "description": "海阔视界远程host"
+          },
+          "hikertool.phonePort": {
+            "type": "number",
+            "default": 52020,
+            "description": "海阔视界远程port"
+          }
+        }
+      }
+    ]
+  },
+  "scripts": {
+    "lint": "eslint .",
+    "pretest": "npm run lint",
+    "test": "vscode-test"
+  },
+  "devDependencies": {
+    "@types/mocha": "^10.0.9",
+    "@types/node": "20.x",
+    "@types/vscode": "^1.95.0",
+    "@vscode/test-cli": "^0.0.10",
+    "@vscode/test-electron": "^2.4.1",
+    "eslint": "^9.13.0"
+  },
+  "dependencies": {
+    "axios": "^1.7.7"
+  }
+}
